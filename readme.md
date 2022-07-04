@@ -1,5 +1,8 @@
 # [서강대 멋쟁이 사자처럼 지원사이트]
-![](https://velog.velcdn.com/images/myway00/post/7b08e3f6-e34a-4e6b-ab3a-c74b83e91630/%EB%85%B9%ED%99%94_2022_02_27_01_29_31_54.gif)
+
+![image](https://user-images.githubusercontent.com/76711238/177089338-40a79c25-c409-47f5-9ac9-0ab1207b94ab.png)
+
+
 
 ## 제작 기간 : 2022.01.23 ~ 2022.02.21
 <br>
